@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28D53AD4-63AD-418C-8DB7-7F578689EA8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ArraySet</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE1E6619-FD97-478E-A138-171070043A05</key>
+		<string>https://github.com/navzou/try-array-set.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ArraySet/ArraySet.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE1E6619-FD97-478E-A138-171070043A05</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-array-set.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE1E6619-FD97-478E-A138-171070043A05</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE1E6619-FD97-478E-A138-171070043A05</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-array-set</string>
+		</dict>
+	</array>
+</dict>
+</plist>
