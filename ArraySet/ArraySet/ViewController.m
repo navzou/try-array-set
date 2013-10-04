@@ -33,7 +33,6 @@
     NSArray *myArray;
     myArray = [NSArray arrayWithObjects:
                @"apple",
-               @"grapes",
                @"orange",
                @"banana",
                nil];
